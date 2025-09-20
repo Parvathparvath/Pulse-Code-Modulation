@@ -133,3 +133,5 @@ Attach the output waveform
 <img width="1363" height="674" alt="Screenshot 2025-09-20 150550" src="https://github.com/user-attachments/assets/a4b29314-5996-43d8-b99b-8478ceb6183f" />
 
 # Hardware experiment output waveform.
+Result:
+thus, Python program for the modulation and demodulation of PCM, and DM was verified
